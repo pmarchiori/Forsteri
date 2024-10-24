@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menus/MainMenu.unity
+    guid: 02237b835e0cd894e88a6b803dfa4030
+  - enabled: 1
+    path: Assets/Scenes/HouseScene.unity
+    guid: 99a61bfeb7836ba44af070d85ce24071
+  - enabled: 1
+    path: Assets/Scenes/IshiVillage.unity
+    guid: 2422ab9f20a88784d851cdbad53ee7cc
+  - enabled: 1
+    path: Assets/Scenes/WorkShop.unity
+    guid: 3c170401ced58e944bf35747aec71f6f
+  - enabled: 1
+    path: Assets/Scenes/Menus/PhaseSelection.unity
+    guid: 5cb2fbc3014d987419dbcb8a33919412
+  - enabled: 1
+    path: Assets/Scenes/Transitions/SceneTransition1.unity
+    guid: cd0b4820eca15a64da492046a172bdc4
+  - enabled: 1
+    path: Assets/Scenes/fase_01.unity
+    guid: 1713b176f55c54142a8715c6aed5b3a0
+  - enabled: 1
+    path: Assets/Scenes/Transitions/SceneTransition2.unity
+    guid: 13bc6c03f839144479295f406fe3989d
+  - enabled: 1
+    path: Assets/Scenes/fase_02.unity
+    guid: 1d2ae5ffa274a6e4db1ae6b8c4fc697d
+  - enabled: 1
+    path: Assets/Scenes/FinalScene.unity
+    guid: daf484b5df32f6f47afa679746b5fc06
+  - enabled: 1
+    path: Assets/Scenes/Menus/Creditos.unity
+    guid: 11dc1fb3c868fbe4c9fca08662a88b10
+  - enabled: 0
+    path: Assets/Scenes/Demo.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  m_configObjects: {}
